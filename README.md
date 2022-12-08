@@ -13,7 +13,7 @@
   
    <p>I'm a Full Stack developer based in the Netherlands. Everyday I try to learn something new, it is good for the brain. </p>
   <h3>:triangular_flag_on_post: Goals for 2022: :triangular_flag_on_post:</h3>
-  <p>These last few months I will start a group project. I am going to add more features to my personal project Choose your own adventure and I want to create an app with all my healthy recipes where I can search, filter and add new ones. I'm going to use React with Typescript, Postico, ElephantSQL and Tailwind. </p>
+  <p>These last few months I finised a group project. I am starting a code advent calendar practice and I want to create an app with all my healthy recipes where I can search, filter and add new ones. I'm going to use React with Typescript, Postico, ElephantSQL and Tailwind. </p>
   
   --------
   
